@@ -1,0 +1,14 @@
+/Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/deps/libpyo3_build_config-6538fadd342a4119.rmeta: /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs /Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config-file.txt /Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config.txt
+
+/Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/deps/libpyo3_build_config-6538fadd342a4119.rlib: /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs /Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config-file.txt /Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config.txt
+
+/Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/deps/pyo3_build_config-6538fadd342a4119.d: /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs /Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs /Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config-file.txt /Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config.txt
+
+/Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs:
+/Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs:
+/Users/simonlion/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs:
+/Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config-file.txt:
+/Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.20.2
+# env-dep:OUT_DIR=/Users/simonlion/Desktop/PS_DNTAT/DNTAT_python/py/target/release/build/pyo3-build-config-0c3007efef913e50/out
